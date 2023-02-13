@@ -67,6 +67,13 @@ namespace AkFree.MiniCalculator
                 }
 
                 Console.WriteLine("The result of the operation is: " + result);
+                Console.WriteLine("                                      ");
+                Console.WriteLine("Thank You");
+                Console.WriteLine("                                      ");
+                Console.WriteLine("--Created by Akshay");
+                Console.WriteLine("                                      ");
+                Console.Write("Press any key to close the Calculator console app...");
+                Console.ReadKey();
             }
             else if (numOperands == 3)
             {
@@ -116,8 +123,6 @@ namespace AkFree.MiniCalculator
                 }
 
                 Console.WriteLine("The result of the operation is: " + result);
-
-                // Wait for the user to respond before closing.
                 Console.WriteLine("                                      ");
                 Console.WriteLine("Thank You");
                 Console.WriteLine("                                      ");
@@ -127,8 +132,6 @@ namespace AkFree.MiniCalculator
                 Console.ReadKey();
 
             }
-
-
         }
     }
 }
