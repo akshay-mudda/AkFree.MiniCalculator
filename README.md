@@ -1,7 +1,7 @@
 
 # AkFree Mini Calculator
 
-This is a Mini-Calculator which performs some operations of two or three numbers selected by user.
+This is a Console Application of a Mini-Calculator which performs some operations of two or three numbers selected by user.
 
 
 ## Badges
