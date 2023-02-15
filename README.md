@@ -38,3 +38,6 @@ This is a Console Application of a Mini-Calculator which performs some operation
 
 If you have any feedback, please reach out to us at https://akshay-mudda-portfolio.netlify.app/
 
+## 
+
+![App Screenshot](https://raw.githubusercontent.com/akshay-mudda/AkFree.MiniCalculator/master/Thanku.gif)
