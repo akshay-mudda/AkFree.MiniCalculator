@@ -37,7 +37,8 @@ This is a Console Application of a Mini-Calculator which performs some operation
 
 ## Feedback
 
-If you have any feedback, please reach out to us at https://akshay-mudda-portfolio.netlify.app/
+If you have any feedback, please reach out to me at [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akshay-mudda/)
+
 
 ## 
 
