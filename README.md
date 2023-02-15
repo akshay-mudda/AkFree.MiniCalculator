@@ -28,9 +28,10 @@ This is a Console Application of a Mini-Calculator which performs some operation
 
 
 ## Screenshots
-
+- For 2 operands
 ![App Screenshot](https://raw.githubusercontent.com/akshay-mudda/AkFree.MiniCalculator/master/Screenshot%201.png)
 
+- For 3 operands
 ![App Screenshot](https://raw.githubusercontent.com/akshay-mudda/AkFree.MiniCalculator/master/Screenshot%202.png)
 
 
